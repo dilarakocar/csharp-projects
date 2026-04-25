@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitap_Satis", "Kitap_Satis\Kitap_Satis.csproj", "{B776475B-CB42-4FC6-8155-AA2EA26E0417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B776475B-CB42-4FC6-8155-AA2EA26E0417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B776475B-CB42-4FC6-8155-AA2EA26E0417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B776475B-CB42-4FC6-8155-AA2EA26E0417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B776475B-CB42-4FC6-8155-AA2EA26E0417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44F3922E-E2DE-4112-BD4D-BCD1702A89AB}
+	EndGlobalSection
+EndGlobal
